@@ -1,2 +1,2 @@
 # social-api
-A Jamkit module for ActivityPub client to server protocol
+An ActivityPub client-to-server protocol module for Jamkit
